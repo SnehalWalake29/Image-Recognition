@@ -10,7 +10,8 @@ The computer vision and robotics communities, with the increasing performance of
 
 ## Problem statement:
 To achieve better performance in classifying grocery items by using convolutional neural networks.
-Data: Freiburg Groceries Dataset
+
+> Data: Freiburg Groceries Dataset
 Dataset of grocery sold online such as beans, corn, milk etc. The dataset includes around 5000 images which are divided into 25 classes (beans, corn and milk are example of 3 classes) with at least 97 images per class.
 
 ## Conclusion: 
