@@ -1,5 +1,5 @@
 # Image-Recognition
-This is Image Recognition(CNN Project)
+This is Image Recognition(DL-CNN Project)
 
 ![CNN DATA](https://github.com/SnehalWalake29/Image-Recognition/assets/154491359/c761b731-f274-400b-9943-e113711739fa)
 
